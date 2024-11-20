@@ -10,7 +10,7 @@ A simple console-based math quiz game to test your arithmetic skills. The game w
 ## How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Haitham-Farahat/math-quiz-game.git
+   git clone https://github.com/Haitham Farahat/math-quiz-game.git
 - Open the project in your favorite C# IDE (e.g., Visual Studio).
 - Build and run the program.
 - Answer the questions by typing your response and pressing Enter.
